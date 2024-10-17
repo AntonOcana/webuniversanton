@@ -1,0 +1,53 @@
+img{
+    height: auto;
+    width: 250px;
+}
+
+body {
+    font-family: 'Playfair Display',serif;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    color: #333;
+    padding: 20px;
+
+}
+
+.topnav a {
+    color: rgb(0, 0, 0); /* Ændrer linkets farve fra blå til en bestemt farve */
+    text-decoration: none; /* Fjerner understregningen fra links */
+    font-size: 18px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #ffffff;
+}
+
+
+section {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    width: 70%;
+}
+
+.mag{
+    position:absolute;
+    width: 450px;
+    left:72%;
+    top: 25%;
+    height: auto;
+    padding: 35px;
+    opacity: 0.5;
+
+        
+}
+
+
+
+
+footer{
+    text-align: center;
+}
